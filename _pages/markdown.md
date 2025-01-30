@@ -9,10 +9,10 @@ redirect_from:
 
 ## Locations of key files/directories
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
+* 基础配置选项: _config.yml
+* 顶部导航栏配置: _data/navigation.yml
+* 单页: _pages/
+* 页面集合是 .md 或 .html 的文件在:
   * _publications/
   * _portfolio/
   * _posts/
