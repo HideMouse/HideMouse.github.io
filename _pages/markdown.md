@@ -18,9 +18,9 @@ redirect_from:
   * _posts/
   * _teaching/
   * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+* 页脚: _includes/footer.html
+* 静态文件 (像 .pdf): /files/
+* 图片 (可以在 _config.yml 里设置): images/profile.png
 
 ## Tips and hints
 
